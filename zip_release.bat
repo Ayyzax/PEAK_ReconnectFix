@@ -1,0 +1,1 @@
+tar.exe -cf ReconnectFix.zip -C "%~dp0metadata" "manifest.json" "README.md" "CHANGELOG.md" "icon.png" "images/bugexample.png" -C "%~dp0bin\Release\netstandard2.1" "ReconnectFix.dll"
