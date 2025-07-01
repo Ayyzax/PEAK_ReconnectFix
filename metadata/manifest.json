@@ -1,8 +1,8 @@
 {
     "name": "Reconnect_Fix",
     "website_url": "https://github.com/Ayyzax/PEAK_ReconnectFix",
-    "version_number": "1.0.0",
-    "description": "Mod that fixes a reconnect error preventing the character from spawning correctly.",
+    "version_number": "1.0.3",
+    "description": "Fixes in-built reconnect save system + common reconnect bug.",
     "dependencies": [
         "BepInEx-BepInExPack_PEAK-5.4.2403"
     ]
